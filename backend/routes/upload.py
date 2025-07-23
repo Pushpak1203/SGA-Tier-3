@@ -1,5 +1,3 @@
-# backend/routes/upload.py
-
 from flask import Blueprint, request, jsonify
 import uuid
 import os
